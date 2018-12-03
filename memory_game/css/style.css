@@ -86,3 +86,10 @@ footer{
 .message{
 	float:right;
 }
+#reset{
+	padding:10px;
+	font-family: "Raleway", sans-serif;
+	background-color: #F15B31;
+	color: white;
+	font-size: 15px;
+}
